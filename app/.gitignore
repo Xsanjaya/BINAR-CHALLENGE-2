@@ -1,0 +1,6 @@
+__pycache__
+migrations
+data/files/*.csv
+*.env
+*.sqlite
+*.db
